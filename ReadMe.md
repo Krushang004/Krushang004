@@ -1,7 +1,7 @@
 # 💫 About Me:
 
-🎓 Semester 4 EC Engineering student @ SCET, Surat  
-🏆 3rd Place — FPGA Design Challenge 2.0 (Real-time Image Processing on Basys 3 / Artix-7, 22 teams)  
+🎓 3rd year EC Engineering student @ SCET, Surat  
+🏆 1st Place — FPGA Design Challenge 2.0 (Real-time Image Processing on Basys 3 / Artix-7, 22 teams)  
 🔭 Currently building a product comparison website & exploring full-stack web dev  
 🧠 Strong in: AVR Assembly · FPGA (Vivado/Verilog) · C · Python · React  
 🤝 Looking to collaborate on open-source tools that make developers' lives easier ⚡  
