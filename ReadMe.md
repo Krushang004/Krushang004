@@ -22,8 +22,7 @@
 ---
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Krushang004&theme=dark&show_icons=true&hide_border=false&include_all_commits=true&count_private=true&cache_seconds=1800)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Krushang004&theme=dark&hide_border=false)<br/>
+![](https://streak-stats.demolab.com?user=Krushang004&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Krushang004&theme=dark&hide_border=false&layout=compact&langs_count=8)
 
 ### 🔝 Top Contributed Repositories
